@@ -1,1 +1,1 @@
-web:node main.js
+web:web1.py
