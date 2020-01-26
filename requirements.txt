@@ -7,4 +7,4 @@ Werkzeug==0.15.6
 numpy>=1.16.4
 keras>=2.2.5
 librosa>=0.7.1
-https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.15.0-cp27-none-linux_x86_64.whl
+tensorflow==1.1.0
