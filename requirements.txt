@@ -7,4 +7,3 @@ Werkzeug==0.15.6
 numpy>=1.16.4
 keras>=2.2.5
 librosa>=0.7.1
-tensorflow==1.15.0
